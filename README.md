@@ -1,4 +1,4 @@
-# TestGcm
+# Test Gcm notification
 
 * git clone
 * npm install
